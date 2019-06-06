@@ -41,7 +41,9 @@ library( knitr )
 library( plotly )
 
 
-V = read_csv( "LIV.csv" )
+V = read_csv( "LIV.csv")
+
+
 
 nrow(V)
 names(V)
@@ -99,19 +101,20 @@ kable(Gllsummary_stats)
 
 #Species Present in Verrill data
 
+Illustrated below there are 184 unique specimens in the verrill data set 
 ```{r}
 
 Vspecies_list = table(V$"Present Sci name")
 Vspecies_frame = data.frame(Taxon=names(Vspecies_list), N=Vspecies_list)
 Vspecies_frame
-kable( Vspecies_frame )
 
 
 ```
 
-Verrill had 184 species 
 
 #Species present in Ginsburg Data
+
+As illustrated below there are 188 unique species in the Elder/Ginsburg dataset
 
 ```{r}
 
@@ -120,16 +123,14 @@ Gspecies_frame = data.frame(Taxon=names(Gspecies_list), N=Gspecies_list)
 
 Gspecies_frame
 
-kable( Gspecies_frame )
-
-
-
-
 ```
 
-188 Species
 
 #What taxon are present in both of these data groups? What are missing?
+
+Using an intersection function I see how many species are present in both data sets:
+
+There are 50 species present in both data sets.
 
 ```{r}
 
@@ -137,14 +138,47 @@ intersect(Gspecies_frame$"Taxon", Vspecies_frame$"Taxon" )
 
 ```
 
-50 species are in common 
+#Visulized in venn diagram
+
+I visualize the number of unique species present in the data sets in the venn diagram below
+
+```{r}
+
+grid.newpage()
+draw.pairwise.venn(188, 184, 50, category = c("Number of Species, Verrill ", 
+    "Number of Species, Ginsburg/Elder"), lty = rep("blank", 2), fill = c("light blue", "pink"), alpha = rep(0.5, 2), cat.pos = c(0, 0), cat.dist = rep(0.025, 2))
+
+
+
+```
+
 
 #Why??
 
-Taxonomy:  E.g. We have split the groups more now than they were split 100 years ago 
+Why is the intersection so small ? 
+
+Sampling Bias? 
+    - The sampling carried out by Verrill and then in 2017 are likely different, i.e. different expertise,          different methods etc 
+    
+    - Comparative methodologies 
+
+Taxonomic reasons? 
+    - Compared to 130 years ago, today when classifying species scientists have more options of species that        a organism belongs to, i.e. more species are known today than 100 years ago, groups have been further         broken up into subgroups etc.
 
 
-#How many Phyla are there, how many in common?
+#Looking at the Phylum level
+
+Below is a bar chart illustrating the the number of specimens(by catalogue number, so not individuals and not species) collected by each of collectors. 
+
+To do this I bound the the two datasets together so I could plot all the data and then seperate them by collecter by colour. 
+
+Main take aways:
+    - Verrill was a much more prolific collector of annelids
+    - The Ginsburg collecting was comparatively heavier on Molluscs and Arthropods than Verrills collecting
+
+
+This could suggest potenital collection bias/focus/expertise of the two collectors.
+    - e.g. wash technique to irritate arthopods from sediment/rock and collect in greater number
 
 
 ```{r}
@@ -154,46 +188,15 @@ library(ggplot2)
 T <- rbind(V,G)
 
 
-VPC <- ggplot(data = T) + 
+TP <- ggplot(data = T) + 
       geom_bar(mapping = aes(x = Phylum, fill = Collector), position = "dodge")
 
-VPC + theme(axis.text.x = element_text(angle = 90, hjust = 1))
+TP + theme(axis.text.x = element_text(angle = 90, hjust = 1))
 
 ```
 
 
-## Collecting bias
-
-collecting techniques and expertise, e.g. wash technique
-
-
-
-
-```{r}
-
-
-
-Vphyla_list = table(V$"Phylum")
-Vphyla_frame = data.frame(Phylum=names(Vphyla_list), N=Vphyla_list, stringsAsFactors = FALSE)
-
-
-VPhyla = c(table(V$`Phylum`))
-VPhyla = Phyla[order(VPhyla, decreasing = TRUE)]
-rownames(Vphyla_frame) = NULL
-kable(VPhyla)
-
-
-
-
-VPC <- ggplot(data = V) + 
-      geom_bar(mapping = aes(x = Phylum, fill = Class), position = "dodge")
-
-VPC + theme(axis.text.x = element_text(angle = 90, hjust = 1))
-
-```
-
-
-By 
+## Phylum by Class for Ginsburg
 
 ```{r}
 
@@ -213,47 +216,211 @@ GPC <- ggplot(data = G) +
 
 GPC + theme(axis.text.x = element_text(angle = 90, hjust = 1))
 
-
 ```
 
 
-
-#Genus that cross over
-There are only 57 Genera present in both Verrill and Ginsburg data sets
+## Phylum by Class for Verrill
 
 ```{r}
 
-intersect(G$"Genus", V$"Genus" )
+library(ggplot2)
 
+Vphyla_list = table(V$"Phylum")
+Vphyla_frame = data.frame(Phylum=names(Vphyla_list), N=Vphyla_list, stringsAsFactors = FALSE)
+
+VPhyla = c(table(V$`Phylum`))
+VPhyla = VPhyla[order(VPhyla, decreasing = TRUE)]
+rownames(Vphyla_frame) = NULL
+kable(VPhyla)
+
+           
+VPC <- ggplot(data = V) + 
+      geom_bar(mapping = aes(x = Phylum, fill = Class), position = "dodge")
+
+VPC + theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+```
+
+#Genus level comparison
+
+Speceis cross over may be influenced by further refining of groups descriptions, I now take a step back and compare at the Genus level to see if there in more over lap in the data sets. 
+
+    - Find total number of genera in each data set
+    - Find intersection 
+    - Plot 
+    
+    - 138 unique genera in Ginsburg dataset 
+    - 143 unique genera in Verrill dataset 
+    - 56 unigue genera intersect  (note, the data frame has 57 objects but one of them is "NA" likely showing specimens that do not have complete taxonomic classifications?? so am choosing to ignore it this genera level comparison 
+    
+There are only 56 Genera present in both Verrill and Ginsburg data sets
+
+```{r}
+
+Ggenera_list = table(G$"Genus")
+Ggenera_frame = data.frame(Taxon=names(Ggenera_list), N=Ggenera_list)
+#Ggenera_frame
+
+Vgenera_list = table(V$"Genus")
+Vgenera_frame = data.frame(Taxon=names(Vgenera_list), N=Vgenera_list)
+#Vgenera_frame
+
+intersect(G$"Genus", V$"Genus" )
 genus_intersection_frame = data.frame(intersect(G$"Genus", V$"Genus"))
+
+grid.newpage()
+draw.pairwise.venn(143, 138, 56, category = c("Number of Genera, Verrill ", 
+    "Number of Genera, Ginsburg/Elder"), lty = rep("blank", 2), fill = c("light blue", "pink"), alpha = rep(0.5, 2), cat.pos = c(0, 0), cat.dist = rep(0.025, 2))
 
 ```
 
 
-
 #Genus distint to each data set
-
 82 new genera found in 2017 by Elder (G dataset) that were not observed by Verrill
+Verrill notes 87 Genera (in modern sense - with names updated) not observed in 2017
 
 ```{r}
 
 #return observations in Ginsburg, but not in Verrill.
-setdiff(G$"Genus", V$"Genus" )
+#setdiff(G$"Genus", V$"Genus" )
 
-G_only_frame = data.frame(setdiff(G$"Genus", V$"Genus" ))
-
+#G_only_frame = data.frame(setdiff(G$"Genus", V$"Genus" ))
 
 ```
 
 ```{r}
 
 ##return observations in Verrill, but not in Ginsburg
-setdiff(V$"Genus", G$"Genus") 
+#setdiff(V$"Genus", G$"Genus") 
 
-V_only_frame = data.frame(setdiff(V$"Genus", G$"Genus"))
+#V_only_frame = data.frame(setdiff(V$"Genus", G$"Genus"))
+
 ```
 
-Verrill notes 87 Genera (in modern sense - with names updated) not observed in 2017
+#Does modern classification have anything to do with this? Are there more species today that we re able to distinguish between when identifying specimens?
+
+
+Making a radial network to illustrate the hierarchical break down across phylum, class, order, family, genus, species for each of the sub-collections.
+
+
+
+```{r}
+
+library(data.tree)
+library(radialNetworkR)
+library(networkD3)
+
+
+
+
+
+
+#making a dataframe for the infomation I want
+
+
+VVtree_frame <- V %>% select('CatFullNumber', 'Phylum', 'Class', 'Order', 'Family', 'Genus', 'Present Sci name')
+
+
+Vtree_frame <- VVtree_frame[complete.cases(VVtree_frame), ]
+str(VVtree_frame)
+Vtree_frame <- na.omit(VVtree_frame)
+
+#filter out specimens with imcomplete taxonomy 
+
+
+
+
+Vtree_frame$pathString <- paste("Verrill Specimens", 
+                            Vtree_frame$Phylum, 
+                            Vtree_frame$Class, 
+                            Vtree_frame$Order,
+                            Vtree_frame$Family,
+                            Vtree_frame$Genus,
+                            Vtree_frame$"Present Sci name",
+                            sep = "/")
+
+specimens <- as.Node(Vtree_frame)
+print(specimens, limit = 1000)
+
+
+
+#convert to Node
+Vspecimens <- as.Node(Vtree_frame, pathDelimiter = "/")
+
+#plot with networkD3
+VspecimensList <- ToListExplicit(Vspecimens, unname = TRUE)
+radialNetwork(VspecimensList, fontSize = 5, opacity = 0.9)
+
+diagonalNetwork(VspecimensList, fontSize = 5, opacity = 0.9)
+
+
+
+
+
+  
+
+```
+
+
+```{r}
+
+
+library(data.tree)
+library(radialNetworkR)
+library(networkD3)
+
+
+
+
+
+
+#making a dataframe for the infomation I want
+
+
+GGtree_frame <- G %>% select('CatFullNumber', 'Phylum', 'Class', 'Order', 'Family', 'Genus', 'Present Sci name')
+
+#filter out specimens with imcomplete taxonomy
+
+Gtree_frame <- GGtree_frame[complete.cases(GGtree_frame), ]
+str(GGtree_frame)
+Gtree_frame <- na.omit(GGtree_frame)
+
+ 
+
+
+
+
+Gtree_frame$pathString <- paste("Ginsburg Specimens", 
+                            Gtree_frame$Phylum, 
+                            Gtree_frame$Class, 
+                            Gtree_frame$Order,
+                            Gtree_frame$Family,
+                            Gtree_frame$Genus,
+                            Gtree_frame$"Present Sci name",
+                            sep = "/")
+
+specimens <- as.Node(Gtree_frame)
+print(specimens, limit = 1000)
+
+
+
+#convert to Node
+Gspecimens <- as.Node(Gtree_frame, pathDelimiter = "/")
+
+#plot with networkD3
+GspecimensList <- ToListExplicit(Gspecimens, unname = TRUE)
+radialNetwork(GspecimensList, fontSize = 5, opacity = 0.9)
+
+diagonalNetwork(GspecimensList, fontSize = 5, opacity = 0.9)
+
+
+
+
+```
+
+
+
+
 
 #Where?!
 
@@ -304,6 +471,8 @@ ggplotly(w)
 
 ```
 
+
+#PLace Names
 ```{r}
 
 Glocality_list = table(G$NearestNamedPlace)

@@ -62,17 +62,17 @@ Group1_key,ecatalogue_key,CatFullNumber,Present Sci name,Phylum,Class,Order,Fami
 306,306,IZ.037556,Bdelloura candida,Platyhelminthes,Turbellaria,Tricladida,Bdellouridae,Bdelloura,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,Stony Creek,,,,1871-05-15,1871,Verrill,41.279,-72.797
 96,96,IZ.000526.BV,Biflustra tenuis,Bryozoa,Gymnolaemata,Cheilostomata,Membraniporidae,Biflustra ,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
 425,425,IZ.055061,Bittiolum alternatum,Mollusca,Gastropoda,Sorbeoconcha,Cerithiidae,Bittiolum,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,1894,1894,Verrill,41.279,-72.797
-98,98,IZ.000528.BV,Bivalvia,Mollusca,Bivalvia,,,,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
-99,99,IZ.000529.BV,Bivalvia,Mollusca,Bivalvia,,,,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
-176,176,IZ.002899.BV,Bivalvia,Mollusca,Bivalvia,,,,,,,,,,,,,,,,,Verrill,,
+98,98,IZ.000528.BV,Bivalvia,Mollusca,Bivalvia, , , ,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
+99,99,IZ.000529.BV,Bivalvia,Mollusca,Bivalvia, , , ,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
+176,176,IZ.002899.BV,Bivalvia,Mollusca,Bivalvia, , , ,,,,,,,,,,,,,,Verrill,,
 157,157,IZ.002388.TN,Botryllus schlosseri,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Botryllus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,,1909,Verrill,41.279,-72.797
 158,158,IZ.002395.TN,Botryllus schlosseri,Chordata,Ascidiacea,Stolidobranchia,Styelidae,Botryllus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,,1909,Verrill,41.279,-72.797
-459,459,IZ.102198,Brachyura,Arthropoda,Malacostraca,Decapoda,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New London County,,Noank,,,,1874,1874,Verrill,41.358,-72.028
+459,459,IZ.102198,Brachyura,Arthropoda,Malacostraca,Decapoda, , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New London County,,Noank,,,,1874,1874,Verrill,41.358,-72.028
 292,292,IZ.024186,Busycotypus canaliculatus,Mollusca,Gastropoda,Neogastropoda,Melongenidae,Busycotypus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New London County,,Noank,,,,1874,1874,Verrill,41.358,-72.028
 326,326,IZ.041763,Cancer plebejus,Arthropoda,Malacostraca,Decapoda,Cancridae,Cancer,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,1892,1892,Verrill,41.279,-72.797
 231,231,IZ.007788.CR,Caprella penantis,Arthropoda,Malacostraca,Amphipoda,Caprellidae,Caprella,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,in pools,,,1874-09-29,1874,Verrill,41.279,-72.797
 242,242,IZ.007903.CR,Caprella penantis,Arthropoda,Malacostraca,Amphipoda,Caprellidae,Caprella,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Guilford,Faulkner's Island,,,,1879-10-02,1879,Verrill,41.321,-72.693
-447,447,IZ.102174,Caprelloidea ,Arthropoda,Malacostraca,Amphipoda,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Guilford,Faulkner's Island,,,,1870-10-02,1870,Verrill,41.321,-72.693
+447,447,IZ.102174,Caprelloidea ,Arthropoda,Malacostraca,Amphipoda, , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Guilford,Faulkner's Island,,,,1870-10-02,1870,Verrill,41.321,-72.693
 205,205,IZ.005772.CR,Carcinus maenas,Arthropoda,Malacostraca,Decapoda,Portunidae,Carcinus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,1902,1902,Verrill,41.279,-72.797
 329,329,IZ.042849,Carcinus maenas,Arthropoda,Malacostraca,Decapoda,Portunidae,Carcinus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
 315,315,IZ.037796,Cerebratulus lacteus,Nemertina,Anopla,Heteronemertea,Lineidae,Cerebratulus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,Stony Creek,,,,1871-05-,1871,Verrill,41.279,-72.797
@@ -103,24 +103,24 @@ Group1_key,ecatalogue_key,CatFullNumber,Present Sci name,Phylum,Class,Order,Fami
 58,58,IZ.000394.AN,Clymenella torquata,Annelida,Polychaeta,Capitellida,Maldanidae,Clymenella,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,(and South End),,,1866-12-,1866,Verrill,41.275,-72.964
 181,181,IZ.002904.AN,Clymenella torquata,Annelida,Polychaeta,Capitellida,Maldanidae,Clymenella,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
 421,421,IZ.050110,Conopeum reticulum,Bryozoa,Gymnolaemata,Cheilostomata,Electridae,Conopeum,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1868,1868,Verrill,41.307,-72.925
-445,445,IZ.102172,Copepoda,Arthropoda,Copepoda,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Guilford,Faulkner's Island,,,,1870-10-02,1870,Verrill,41.321,-72.693
-448,448,IZ.102175,Copepoda,Arthropoda,Copepoda,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Guilford,Faulkner's Island,,,,1870-10-02,1870,Verrill,41.321,-72.693
-452,452,IZ.102191,Copepoda,Arthropoda,Copepoda,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New London County,,Noank,,,,1874,1874,Verrill,41.358,-72.028
+445,445,IZ.102172,Copepoda,Arthropoda,Copepoda, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Guilford,Faulkner's Island,,,,1870-10-02,1870,Verrill,41.321,-72.693
+448,448,IZ.102175,Copepoda,Arthropoda,Copepoda, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Guilford,Faulkner's Island,,,,1870-10-02,1870,Verrill,41.321,-72.693
+452,452,IZ.102191,Copepoda,Arthropoda,Copepoda, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New London County,,Noank,,,,1874,1874,Verrill,41.358,-72.028
 283,283,IZ.013179.GP,Corambe obscura,Mollusca,Gastropoda,Nudibranchia,Corambidae,Corambe ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,1893-10-21,1893,Verrill,41.279,-72.797
 50,50,IZ.000291.BV,Crassostrea virginica,Mollusca,Bivalvia,Pterioida,Ostreidae,Crassostrea,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,,New Haven?,,,,,Verrill,41.311,-72.925
 285,285,IZ.014391.GP,Crepidula convexa ,Mollusca,Gastropoda,Littorinimorpha,Calyptraeidae,Crepidula,Atlantic Ocean,,Long Island Sound,USA,Connecticut,,,,,,,1885-05-,1885,Verrill,,
-5,5,IZ.000100.CR,Crustacea,Arthropoda,,,,,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,1865,1865,Verrill,,
-64,64,IZ.000404.CR,Crustacea,Arthropoda,,,,,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
-66,66,IZ.000405.CR,Crustacea,Arthropoda,,,,,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
-68,68,IZ.000406.CR,Crustacea,Arthropoda,,,,,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
-70,70,IZ.000407.CR,Crustacea,Arthropoda,,,,,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
-72,72,IZ.000408.CR,Crustacea,Arthropoda,,,,,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
-74,74,IZ.000409.CR,Crustacea,Arthropoda,,,,,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
-76,76,IZ.000413.CR,Crustacea,Arthropoda,,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-78,78,IZ.000414.CR,Crustacea,Arthropoda,,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-80,80,IZ.000415.CR,Crustacea,Arthropoda,,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-82,82,IZ.000416.CR,Crustacea,Arthropoda,,,,,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
-84,84,IZ.000417.CR,Crustacea,Arthropoda,,,,,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
+5,5,IZ.000100.CR,Crustacea,Arthropoda, , , , ,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,1865,1865,Verrill,,
+64,64,IZ.000404.CR,Crustacea,Arthropoda, , , , ,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
+66,66,IZ.000405.CR,Crustacea,Arthropoda, , , , ,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
+68,68,IZ.000406.CR,Crustacea,Arthropoda, , , , ,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
+70,70,IZ.000407.CR,Crustacea,Arthropoda, , , , ,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
+72,72,IZ.000408.CR,Crustacea,Arthropoda, , , , ,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
+74,74,IZ.000409.CR,Crustacea,Arthropoda, , , , ,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
+76,76,IZ.000413.CR,Crustacea,Arthropoda, , , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+78,78,IZ.000414.CR,Crustacea,Arthropoda, , , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+80,80,IZ.000415.CR,Crustacea,Arthropoda, , , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+82,82,IZ.000416.CR,Crustacea,Arthropoda, , , , ,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
+84,84,IZ.000417.CR,Crustacea,Arthropoda, , , , ,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
 53,53,IZ.000314.CN,Cyanea capillata,Cnidaria,Scyphozoa,Semaeostomeae,Cyaneidae,Cyanea,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,1865,1865,Verrill,,
 301,301,IZ.035117,Cyanea capillata,Cnidaria,Scyphozoa,Semaeostomeae,Cyaneidae,Cyanea,Atlantic Ocean,,Long Island Sound,USA,,,,,,,,1874,1874,Verrill,,
 304,304,IZ.035234,Cyanea capillata,Cnidaria,Scyphozoa,Semaeostomeae,Cyaneidae,Cyanea,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,1905,1905,Verrill,41.279,-72.797
@@ -129,10 +129,10 @@ Group1_key,ecatalogue_key,CatFullNumber,Present Sci name,Phylum,Class,Order,Fami
 266,266,IZ.008837.CR,Cyathura polita,Arthropoda,Malacostraca,Isopoda,Anthuridae,Cyathura,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
 273,273,IZ.009119.CR,Cylisticus convexus,Arthropoda,Malacostraca,Isopoda,Oniscidae,Cylisticus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
 229,229,IZ.007786.CR,Cymadusa compta,Arthropoda,Malacostraca,Amphipoda,Ampithoidae,Cymadusa,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,in pools,,,1874-09-29,1874,Verrill,41.279,-72.797
-45,45,IZ.000263.PR,Demospongiae,Porifera,Demospongiae,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,,near New Haven,,,,,Verrill,41.307,-72.925
+45,45,IZ.000263.PR,Demospongiae,Porifera,Demospongiae, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,,near New Haven,,,,,Verrill,41.307,-72.925
 279,279,IZ.009530.CN,Diadumene leucolena,Cnidaria,Anthozoa,Actiniaria,Diadumenidae,Diadumene,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,1906,1906,Verrill,41.279,-72.797
 456,456,IZ.102195,Diastylis quadrispinosa,Arthropoda,Malacostraca,Cumacea,Diastylidae,Diastylis,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New London County,,Noank,,,,1874,1874,Verrill,41.358,-72.028
-431,431,IZ.088920,Diatoms,Diatoms,,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+431,431,IZ.088920,Diatoms,Diatoms, , , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
 32,32,IZ.000225.AN,Diopatra cuprea,Annelida,Polychaeta,Eunicida,Onuphidae,Diopatra,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,,,,1870-10-,1870,Verrill,41.275,-72.964
 111,111,IZ.000628.AN,Diopatra cuprea,Annelida,Polychaeta,Eunicida,Onuphidae,Diopatra,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1881,1881,Verrill,41.307,-72.925
 116,116,IZ.000665.AN,Diopatra cuprea,Annelida,Polychaeta,Eunicida,Onuphidae,Diopatra,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,(and New Haven),,,1870-06-,1870,Verrill,41.275,-72.964
@@ -154,7 +154,7 @@ Group1_key,ecatalogue_key,CatFullNumber,Present Sci name,Phylum,Class,Order,Fami
 436,436,IZ.091171,Edotia triloba,Arthropoda,Malacostraca,Isopoda,Idoteidae,Edotia,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,,,,1872-05-22,1872,Verrill,41.275,-72.964
 437,437,IZ.091175,Edotia triloba,Arthropoda,Malacostraca,Isopoda,Idoteidae,Edotia,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,,,,1872-05-22,1872,Verrill,41.275,-72.964
 458,458,IZ.102197,Edotia triloba,Arthropoda,Malacostraca,Isopoda,Idoteidae,Edotea,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New London County,,Noank,,,,1874,1874,Verrill,41.358,-72.028
-127,127,IZ.000950.AN,Enchytraeus sp.,Annelida,Oligochaeta,,Enchytraeidae,Enchytraeus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1875,1875,Verrill,41.307,-72.925
+127,127,IZ.000950.AN,Enchytraeus sp.,Annelida,Oligochaeta, ,Enchytraeidae,Enchytraeus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1875,1875,Verrill,41.307,-72.925
 126,126,IZ.000890.AN,Enoplobranchus sanguineus,Annelida,Polychaeta,Terebellida,Terebellidae,Enoplobranchus ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1872-05-,1872,Verrill,41.275,-72.964
 166,166,IZ.002723.AN,Enoplobranchus sanguineus,Annelida,Polychaeta,Terebellida,Terebellidae,Enoplobranchus ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,Stony Creek,,,,1871-05-15,1871,Verrill,41.279,-72.797
 323,323,IZ.040568,Enoplobranchus sanguineus,Annelida,Polychaeta,Terebellida,Terebellidae,Enoplobranchus ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1872-05-,1872,Verrill,41.275,-72.964
@@ -168,7 +168,7 @@ Group1_key,ecatalogue_key,CatFullNumber,Present Sci name,Phylum,Class,Order,Fami
 146,146,IZ.002011.CR,Erichsonella filiformis,Arthropoda,Malacostraca,Isopoda,Idoteidae,Erichsonella,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,,,,,,Verrill,41.279,-72.797
 230,230,IZ.007787.CR,Ericthonius brasiliensis,Arthropoda,Malacostraca,Amphipoda,Ischyroceridae,Erichthonius,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,in pools,,,1874-09-29,1874,Verrill,41.279,-72.797
 240,240,IZ.007898.CR,Ericthonius brasiliensis,Arthropoda,Malacostraca,Amphipoda,Ischyroceridae,Ericthonius,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Guilford,Faulkner's Island,,,,1879-10-02,1879,Verrill,41.321,-72.693
-97,97,IZ.000527.BV,Eschara sp.,Bryozoa,Gymnolaemata,Cheilostomata,,Eschara,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
+97,97,IZ.000527.BV,Eschara sp.,Bryozoa,Gymnolaemata,Cheilostomata, ,Eschara,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
 420,420,IZ.049879,Escharelloides spinulifera,Bryozoa,Gymnolaemata,Cheilostomatida,Hincksiporidae,Escharelloides ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,Thimble Islands,,,,1874,1874,Verrill,,
 251,251,IZ.008254.CR,Eubranchipus vernalis,Arthropoda,Branchiopoda,Anostraca,Chirocephalidae,Eubranchipus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
 355,355,IZ.045175,Euspira heros,Mollusca,Gastropoda,Littorinimorpha,Naticidae,Euspira,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
@@ -177,7 +177,7 @@ Group1_key,ecatalogue_key,CatFullNumber,Present Sci name,Phylum,Class,Order,Fami
 358,358,IZ.045179,Euspira heros,Mollusca,Gastropoda,Littorinimorpha,Naticidae,Euspira,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
 419,419,IZ.048977,Eusyllis fragilis,Annelida,Polychaeta,Phyllodocida,Syllidae,Eusyllis,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,,,,1877-10-,1877,Verrill,41.275,-72.964
 65,65,IZ.000405.AN,Fabricia stellaris,Annelida,Polychaeta,Sabellida,Fabriciidae,Fabricia,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,,,,,,Verrill,41.275,-72.964
-444,444,IZ.102171,Flabellifera,Arthropoda,Malacostraca,Isopoda,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Guilford,Faulkner's Island,,,,1870-10-02,1870,Verrill,41.321,-72.693
+444,444,IZ.102171,Flabellifera,Arthropoda,Malacostraca,Isopoda, , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Guilford,Faulkner's Island,,,,1870-10-02,1870,Verrill,41.321,-72.693
 83,83,IZ.000416.TN,Flustrellidra hispida,Bryozoa,Gymnolaemata,Ctenostomata,Flustrellidridae,Flustrellidra ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1873-05-05,1873,Verrill,41.275,-72.964
 187,187,IZ.004616.CR,Gammarus annulatus,Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammarus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1873-05-05,1873,Verrill,41.307,-72.925
 219,219,IZ.007483.CR,Gammarus lawrencianus,Arthropoda,Malacostraca,Amphipoda,Gammaridae,Gammarus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1873-05-01,1873,Verrill,41.307,-72.925
@@ -211,7 +211,7 @@ Group1_key,ecatalogue_key,CatFullNumber,Present Sci name,Phylum,Class,Order,Fami
 101,101,IZ.000603.PR,Haliclona oculata,Porifera,Demospongiae,Haplosclerida,Chalinidae,Haliclona,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
 102,102,IZ.000605.PR,Haliclona oculata,Porifera,Demospongiae,Haplosclerida,Chalinidae,Haliclona,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
 263,263,IZ.008826.CN,Haloclava producta,Cnidaria,Anthozoa,Actiniaria,Haloclavidae,Haloclava,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-48,48,IZ.000269.AN,Halodrilus littoralis,Annelida,Oligochaeta,,,Halodrillus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,(and Stony Creek),,,,,Verrill,41.275,-72.964
+48,48,IZ.000269.AN,Halodrilus littoralis,Annelida,Oligochaeta, , ,Halodrillus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,(and Stony Creek),,,,,Verrill,41.275,-72.964
 155,155,IZ.002331.AN,Harmothoe extenuata,Annelida,Polychaeta,Phyllodocida,Polynoidae,Harmothoe,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,,,Verrill,41.279,-72.797
 124,124,IZ.000840.AN,Harmothoe imbricata,Annelida,Polychaeta,Phyllodocida,Polynoidae,Harmothoe,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1872-05-,1872,Verrill,41.275,-72.964
 293,293,IZ.027103,Harmothoe imbricata,Annelida,Polychaeta,Phyllodocida,Polynoidae,Harmothoe,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1872-05-,1872,Verrill,41.275,-72.964
@@ -219,12 +219,12 @@ Group1_key,ecatalogue_key,CatFullNumber,Present Sci name,Phylum,Class,Order,Fami
 295,295,IZ.027122,Harmothoe imbricata,Annelida,Polychaeta,Phyllodocida,Polynoidae,Harmothoe,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1877,1877,Verrill,41.307,-72.925
 296,296,IZ.027124,Harmothoe imbricata,Annelida,Polychaeta,Phyllodocida,Polynoidae,Harmothoe,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,Guilford,Falkner Island,,,1873,1873,Verrill,41.321,-72.693
 105,105,IZ.000608.GP,Helicodiscus lineata,Mollusca,Gastropoda,Stylommatophora,Helicodiscidae,Helicodiscus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-428,428,IZ.060683,Helobdella modesta,Annelida,Hirudinea,,Glossiphoniidae,Helobdella,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,Harris Pond,,,1881-05-,1881,Verrill,41.307,-72.925
+428,428,IZ.060683,Helobdella modesta,Annelida,Hirudinea, ,Glossiphoniidae,Helobdella,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,Harris Pond,,,1881-05-,1881,Verrill,41.307,-72.925
 36,36,IZ.000229.AN,Heteronereis sp.,Annelida,Polychaeta,Errantida,Nereidae,Heteronereis,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,,,,1870-10-,1870,Verrill,41.275,-72.964
 103,103,IZ.000606.GP,Hyalina arborea,Mollusca,Gastropoda,Neogastropoda,Marginellidae,Hyalina,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
 128,128,IZ.001128.CN,Hydractinia polyclina,Cnidaria,Hydrozoa,Hydroida,Hydractiniidae,Hydractinia,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,East Haven,,,,1865,1865,Verrill,41.297,-72.857
-191,191,IZ.005436.CN,Hydroida,Cnidaria,Hydrozoa,Hydroida,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,Thimble Islands,,,,1874-09-23,1874,Verrill,,
-305,305,IZ.036347,Hydroida,Cnidaria,Hydrozoa,Hydroida,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,tide pool,,,1875-05-24,1875,Verrill,41.279,-72.797
+191,191,IZ.005436.CN,Hydroida,Cnidaria,Hydrozoa,Hydroida, , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,Thimble Islands,,,,1874-09-23,1874,Verrill,,
+305,305,IZ.036347,Hydroida,Cnidaria,Hydrozoa,Hydroida, , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,tide pool,,,1875-05-24,1875,Verrill,41.279,-72.797
 10,10,IZ.000166.AN,Hydroides dianthus,Annelida,Polychaeta,Sedentarida,Serpulidae,Hydroides,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,1866-10-,,Verrill,,
 15,15,IZ.000185.AN,Hydroides dianthus,Annelida,Polychaeta,Sedentarida,Serpulidae,Hydroides,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,New Haven,Lighthouse Point,5 mile point,,,1866-10-31,,Verrill,,
 37,37,IZ.000230.AN,Hydroides dianthus,Annelida,Polychaeta,Sedentarida,Serpulidae,Hydroides ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,,,,1870-10-,1870,Verrill,41.275,-72.964
@@ -243,9 +243,9 @@ Group1_key,ecatalogue_key,CatFullNumber,Present Sci name,Phylum,Class,Order,Fami
 208,208,IZ.006351.CR,Idotea phosphorea,Arthropoda,Malacostraca,Isopoda,Idoteidae,Idotea,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,,,,,,Verrill,41.279,-72.797
 192,192,IZ.005453.CR,Ischyrocerus anguipes,Arthropoda,Malacostraca,Amphipoda,Ischyroceridae,Ischyrocerus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New London County,,Stonington,Off Stonington,,,1873,1873,Verrill,41.368,-71.907
 104,104,IZ.000606.PR,Isodictya sp.,Porifera,Demospongiae,Poecilosclerida,Isodictyidae,Isodictya,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
-319,319,IZ.038216,Isopoda,Arthropoda,Malacostraca,Isopoda,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-320,320,IZ.038217,Isopoda,Arthropoda,Malacostraca,Isopoda,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-321,321,IZ.038226,Isopoda,Arthropoda,Malacostraca,Isopoda,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1873-05-05,1873,Verrill,41.275,-72.964
+319,319,IZ.038216,Isopoda,Arthropoda,Malacostraca,Isopoda, , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+320,320,IZ.038217,Isopoda,Arthropoda,Malacostraca,Isopoda, , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+321,321,IZ.038226,Isopoda,Arthropoda,Malacostraca,Isopoda, , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1873-05-05,1873,Verrill,41.275,-72.964
 225,225,IZ.007598.CR,Jaera albifrons,Arthropoda,Malacostraca,Isopoda,Janiridae,Jaera,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,"3/4 tide, among grassroots",,,1874-06-01,1874,Verrill,41.275,-72.964
 232,232,IZ.007789.CR,Jaera albifrons,Arthropoda,Malacostraca,Isopoda,Janiridae,Jaera,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,in pools,,,1874-09-29,1874,Verrill,41.279,-72.797
 286,286,IZ.015161.GP,Lacuna vincta,Mollusca,Gastropoda,Littorinimorpha,Littorinidae,Lacuna,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,South End,,,1874-11-,1874,Verrill,41.307,-72.925
@@ -272,9 +272,9 @@ Group1_key,ecatalogue_key,CatFullNumber,Present Sci name,Phylum,Class,Order,Fami
 438,438,IZ.093895,Leptosynapta tenuis,Echinodermata,Holothuroidea,Apodida,Synaptidae,Leptosynapta,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
 1,1,IZ.000006.NM,Lineus sanguineus,Nemertina,Anopla,Heteronemertea,Lineidae,Lineus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,(and South End),,,1866-12-,1866,Verrill,41.275,-72.964
 211,211,IZ.006431.BV,Lunarca ovalis,Mollusca,Bivalvia,Arcoida,Arcidae,Lunarca,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
-77,77,IZ.000414.AN,Macrobdella decora,Annelida,Hirudinea,,Hirudidae,Macrobdella,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1835,1835,Verrill,41.307,-72.925
+77,77,IZ.000414.AN,Macrobdella decora,Annelida,Hirudinea, ,Hirudidae,Macrobdella,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1835,1835,Verrill,41.307,-72.925
 316,316,IZ.037829,Malacobdella grossa,Nemertina,Enopla,Bdellonemertea,Malacobdellidae,Malacobdella,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1871-10-,1871,Verrill,41.307,-72.925
-336,336,IZ.044139,Maldanidae,Annelida,Polychaeta,Capitellida,Maldanidae,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+336,336,IZ.044139,Maldanidae,Annelida,Polychaeta,Capitellida,Maldanidae, ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
 354,354,IZ.045092,Marenzelleria viridis,Annelida,Polychaeta,Sedentarida,Spionidae,Marenzelleria ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
 34,34,IZ.000227.AN,Marphysa sanguinea,Annelida,Polychaeta,Eunicida,Eunicidae,Marphysa,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,,,,1870-10-,1870,Verrill,41.275,-72.964
 427,427,IZ.055168,Marshallora nigrocincta,Mollusca,Gastropoda,Littorinimorpha,Triphoridae,Marshallora,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,,,,1873,1873,Verrill,41.279,-72.797
@@ -292,18 +292,18 @@ Group1_key,ecatalogue_key,CatFullNumber,Present Sci name,Phylum,Class,Order,Fami
 161,161,IZ.002598.TN,Molgula manhattensis,Chordata,Ascidiacea,Stolidobranchia,Molgulidae,Molgula,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1883,1883,Verrill,41.307,-72.925
 162,162,IZ.002600.TN,Molgula manhattensis,Chordata,Ascidiacea,Stolidobranchia,Molgulidae,Molgula,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,,,,,,Verrill,41.279,-72.797
 337,337,IZ.044245,Nectonereis megalops,Annelida,Polychaeta,Errantida,Nereidae,Nectonereis ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Guilford,Falkner Island,,,,1873-10-02,1873,Verrill,41.321,-72.693
-317,317,IZ.037983,Nemertea,Nemertea,,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-318,318,IZ.037985,Nemertea,Nemertea,,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+317,317,IZ.037983,Nemertea,Nemertea, , , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+318,318,IZ.037985,Nemertea,Nemertea, , , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
 213,213,IZ.006527.CR,Neomysis americana,Arthropoda,Malacostraca,Mysidacea,Mysidae,Neomysis,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1873-05-05,1873,Verrill,41.275,-72.964
 214,214,IZ.006529.CR,Neomysis americana,Arthropoda,Malacostraca,Mysidacea,Mysidae,Neomysis,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1873-05-05,1873,Verrill,41.307,-72.925
 249,249,IZ.008156.CR,Neomysis americana,Arthropoda,Malacostraca,Mysidacea,Mysidae,Neomysis ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1873-05-05,1873,Verrill,41.307,-72.925
 250,250,IZ.008157.CR,Neomysis americana,Arthropoda,Malacostraca,Mysidacea,Mysidae,Neomysis ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1873-05-05,1873,Verrill,41.307,-72.925
-449,449,IZ.102176,Nereidae,Annelida,Polychaeta,Errantida,Nereidae,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Guilford,Faulkner's Island,,,,1870-10-02,1870,Verrill,41.321,-72.693
+449,449,IZ.102176,Nereidae,Annelida,Polychaeta,Errantida,Nereidae, ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Guilford,Faulkner's Island,,,,1870-10-02,1870,Verrill,41.321,-72.693
 9,9,IZ.000162.AN,Nicolea simplex,Annelida,Polychaeta,Terebellida,Terebellidae,Nicolea,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,,,,1865,,Verrill,,
 123,123,IZ.000795.AN,Notomastus luridus,Annelida,Polychaeta,Capitellida,Capitellidae,Notomastus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1872-05-,1872,Verrill,41.275,-72.964
 217,217,IZ.007265.CN,Obelia bidentata,Cnidaria,Hydrozoa,Hydroida,Campanulariidae,Obelia,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,in pools,,,1874-09-29,1874,Verrill,41.279,-72.797
 87,87,IZ.000432.TN,Omalosecosa ramulosa,Bryozoa,Gymnolaemata,Cheilostomata,Celleporidae,Omalosecosa,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,1874-07-23,1874,Verrill,,
-446,446,IZ.102173,Ostracoda,Arthropoda,Ostracoda,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Guilford,Faulkner's Island,,,,1870-10-02,1870,Verrill,41.321,-72.693
+446,446,IZ.102173,Ostracoda,Arthropoda,Ostracoda, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Guilford,Faulkner's Island,,,,1870-10-02,1870,Verrill,41.321,-72.693
 243,243,IZ.007935.CR,Pagurus longicarpus,Arthropoda,Malacostraca,Decapoda,Paguridae,Pagurus,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
 244,244,IZ.007943.CR,Pagurus longicarpus,Arthropoda,Malacostraca,Decapoda,Paguridae,Pagurus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,,,Verrill,41.279,-72.797
 215,215,IZ.006900.CR,Pagurus pollicaris,Arthropoda,Malacostraca,Decapoda,Paguridae,Pagurus,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,1865,1865,Verrill,,
@@ -324,61 +324,61 @@ Group1_key,ecatalogue_key,CatFullNumber,Present Sci name,Phylum,Class,Order,Fami
 59,59,IZ.000395.AN,Pista palmata,Annelida,Polychaeta,Terebellida,Terebellidae,Pista,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,(and South End),,,1866-12-,1866,Verrill,41.275,-72.964
 67,67,IZ.000406.AN,Pista palmata,Annelida,Polychaeta,Terebellida,Terebellidae,Pista,Atlantic Ocean,,Long Island Sound,USA,Connecticut,,,,,,,1866-10-,1866,Verrill,,
 168,168,IZ.002746.AN,Pista palmata,Annelida,Polychaeta,Terebellida,Terebellidae,Pista,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,,,,,,Verrill,41.279,-72.797
-24,24,IZ.000213.AN,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,Stony Creek,,,,1871-05-15,1871,Verrill,41.279,-72.797
-172,172,IZ.002843.AN,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,South End,,,1874-11-,1874,Verrill,41.307,-72.925
-366,366,IZ.046011,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,tide pool,,,1875-05-24,1875,Verrill,41.279,-72.797
-367,367,IZ.046015,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,,,Verrill,41.279,-72.797
-368,368,IZ.046017,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,tide pool,,,1875-05-24,1875,Verrill,41.279,-72.797
-369,369,IZ.046018,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,Stony Creek,,,,1871-05-15,1871,Verrill,41.279,-72.797
-370,370,IZ.046024,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,,1909,Verrill,41.279,-72.797
-371,371,IZ.046025,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,1894-10-,1894,Verrill,41.279,-72.797
-372,372,IZ.046030,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,,,,,,Verrill,41.279,-72.797
-373,373,IZ.046031,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Guilford,Falkner Island,,,,1873-10-02,1873,Verrill,41.213,-72.654
-374,374,IZ.046032,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,,,,1873,1873,Verrill,41.279,-72.797
-375,375,IZ.046033,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,,,,1873,1873,Verrill,41.279,-72.797
-376,376,IZ.046108,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-377,377,IZ.046109,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-378,378,IZ.046110,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1877,1877,Verrill,41.307,-72.925
-379,379,IZ.046111,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-380,380,IZ.046112,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-381,381,IZ.046113,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-382,382,IZ.046114,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1883,1883,Verrill,41.307,-72.925
-383,383,IZ.046115,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-384,384,IZ.046116,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-385,385,IZ.046117,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-386,386,IZ.046118,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-387,387,IZ.046119,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-388,388,IZ.046120,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-389,389,IZ.046121,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-390,390,IZ.046122,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-391,391,IZ.046123,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-392,392,IZ.046124,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-393,393,IZ.046125,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-394,394,IZ.046126,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-395,395,IZ.046127,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-396,396,IZ.046128,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-397,397,IZ.046129,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1881-05-22,1881,Verrill,41.307,-72.925
-398,398,IZ.046130,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-399,399,IZ.046131,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-400,400,IZ.046132,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1877,1877,Verrill,41.307,-72.925
-401,401,IZ.046133,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-402,402,IZ.046134,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-403,403,IZ.046135,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-404,404,IZ.046136,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-405,405,IZ.046137,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1872-05-,1872,Verrill,41.275,-72.964
-406,406,IZ.046138,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,,,,,,Verrill,41.275,-72.964
-407,407,IZ.046139,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1871-05-,1871,Verrill,41.275,-72.964
-408,408,IZ.046140,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1872-05-,1872,Verrill,41.275,-72.964
-409,409,IZ.046141,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,,,,,,Verrill,41.275,-72.964
-410,410,IZ.046142,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,,,,1877,1877,Verrill,41.275,-72.964
-411,411,IZ.046144,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,East Haven,,,,1865-01-,1865,Verrill,41.297,-72.857
-412,412,IZ.046146,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,,,,,,Verrill,41.275,-72.964
-413,413,IZ.046148,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1871-10-,1871,Verrill,41.275,-72.964
-414,414,IZ.046149,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1872-05-,1872,Verrill,41.275,-72.964
-415,415,IZ.046155,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-416,416,IZ.046156,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
-417,417,IZ.046157,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,,,Verrill,41.279,-72.797
-418,418,IZ.046641,Polychaeta,Annelida,Polychaeta,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1877,1877,Verrill,41.307,-72.925
+24,24,IZ.000213.AN,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,Stony Creek,,,,1871-05-15,1871,Verrill,41.279,-72.797
+172,172,IZ.002843.AN,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,South End,,,1874-11-,1874,Verrill,41.307,-72.925
+366,366,IZ.046011,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,tide pool,,,1875-05-24,1875,Verrill,41.279,-72.797
+367,367,IZ.046015,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,,,Verrill,41.279,-72.797
+368,368,IZ.046017,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,tide pool,,,1875-05-24,1875,Verrill,41.279,-72.797
+369,369,IZ.046018,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,Stony Creek,,,,1871-05-15,1871,Verrill,41.279,-72.797
+370,370,IZ.046024,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,,1909,Verrill,41.279,-72.797
+371,371,IZ.046025,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,1894-10-,1894,Verrill,41.279,-72.797
+372,372,IZ.046030,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,,,,,,Verrill,41.279,-72.797
+373,373,IZ.046031,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Guilford,Falkner Island,,,,1873-10-02,1873,Verrill,41.213,-72.654
+374,374,IZ.046032,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,,,,1873,1873,Verrill,41.279,-72.797
+375,375,IZ.046033,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,,,,1873,1873,Verrill,41.279,-72.797
+376,376,IZ.046108,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+377,377,IZ.046109,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+378,378,IZ.046110,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1877,1877,Verrill,41.307,-72.925
+379,379,IZ.046111,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+380,380,IZ.046112,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+381,381,IZ.046113,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+382,382,IZ.046114,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1883,1883,Verrill,41.307,-72.925
+383,383,IZ.046115,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+384,384,IZ.046116,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+385,385,IZ.046117,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+386,386,IZ.046118,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+387,387,IZ.046119,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+388,388,IZ.046120,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+389,389,IZ.046121,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+390,390,IZ.046122,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+391,391,IZ.046123,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+392,392,IZ.046124,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+393,393,IZ.046125,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+394,394,IZ.046126,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+395,395,IZ.046127,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+396,396,IZ.046128,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+397,397,IZ.046129,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1881-05-22,1881,Verrill,41.307,-72.925
+398,398,IZ.046130,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+399,399,IZ.046131,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+400,400,IZ.046132,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1877,1877,Verrill,41.307,-72.925
+401,401,IZ.046133,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+402,402,IZ.046134,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+403,403,IZ.046135,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+404,404,IZ.046136,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+405,405,IZ.046137,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1872-05-,1872,Verrill,41.275,-72.964
+406,406,IZ.046138,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,,,,,,Verrill,41.275,-72.964
+407,407,IZ.046139,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1871-05-,1871,Verrill,41.275,-72.964
+408,408,IZ.046140,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1872-05-,1872,Verrill,41.275,-72.964
+409,409,IZ.046141,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,,,,,,Verrill,41.275,-72.964
+410,410,IZ.046142,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,,,,1877,1877,Verrill,41.275,-72.964
+411,411,IZ.046144,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,East Haven,,,,1865-01-,1865,Verrill,41.297,-72.857
+412,412,IZ.046146,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,,,,,,Verrill,41.275,-72.964
+413,413,IZ.046148,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1871-10-,1871,Verrill,41.275,-72.964
+414,414,IZ.046149,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1872-05-,1872,Verrill,41.275,-72.964
+415,415,IZ.046155,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+416,416,IZ.046156,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
+417,417,IZ.046157,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,,,Verrill,41.279,-72.797
+418,418,IZ.046641,Polychaeta,Annelida,Polychaeta, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1877,1877,Verrill,41.307,-72.925
 30,30,IZ.000223.AN,Polycirrus eximius,Annelida,Polychaeta,Terebellida,Terebellidae,Polycirrus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,Stony Creek,,,,1871-05-15,1871,Verrill,41.279,-72.797
 56,56,IZ.000392.AN,Polycirrus eximius,Annelida,Polychaeta,Terebellida,Terebellidae,Polycirrus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,(and South End),,,1866-12-,1866,Verrill,41.275,-72.964
 57,57,IZ.000393.AN,Polycirrus eximius,Annelida,Polychaeta,Terebellida,Terebellidae,Polycirrus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,(and South End),,,1866-12-,1866,Verrill,41.275,-72.964
@@ -386,8 +386,8 @@ Group1_key,ecatalogue_key,CatFullNumber,Present Sci name,Phylum,Class,Order,Fami
 22,22,IZ.000203.AN,Polydora sp.,Annelida,Polychaeta,Sedentarida,Spionidae,Polydora,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,off South End,,,1871-05-29,1871,Verrill,41.307,-72.925
 174,174,IZ.002886.AN,Polydora sp.,Annelida,Polychaeta,Sedentarida,Spionidae,Polydora,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,1892-10-01,1892,Verrill,41.279,-72.797
 439,439,IZ.095715,Polydora sp.,Annelida,Polychaeta,Sedentarida,Spionidae,Polydora,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,,,,1877-10-,1877,Verrill,41.275,-72.964
-173,173,IZ.002863.AN,Polynoidae,Annelida,Polychaeta,Phyllodocida,Polynoidae,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,in pools,,,1874-09-29,1874,Verrill,41.279,-72.797
-297,297,IZ.027175,Polynoidae,Annelida,Polychaeta,Phyllodocida,Polynoidae,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1881-05-22,1881,Verrill,41.307,-72.925
+173,173,IZ.002863.AN,Polynoidae,Annelida,Polychaeta,Phyllodocida,Polynoidae, ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,in pools,,,1874-09-29,1874,Verrill,41.279,-72.797
+297,297,IZ.027175,Polynoidae,Annelida,Polychaeta,Phyllodocida,Polynoidae, ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1881-05-22,1881,Verrill,41.307,-72.925
 12,12,IZ.000177.AN,Proceraea cornuta,Annelida,Polychaeta,Phyllodocida,Syllidae,Proceraea,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,1866,,Verrill,,
 451,451,IZ.102190,Rhepoxynius epistomus,Arthropoda,Malacostraca,Amphipoda,Phoxocephalidae,Rhepoxynius,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New London County,,Noank,,,,1874,1874,Verrill,41.358,-72.028
 129,129,IZ.001243.CR,Rhithropanopeus harrisii,Arthropoda,Malacostraca,Decapoda,Panopeidae,Rhithropanopeus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,,,Verrill,41.307,-72.925
@@ -423,10 +423,10 @@ Group1_key,ecatalogue_key,CatFullNumber,Present Sci name,Phylum,Class,Order,Fami
 289,289,IZ.020169,Stylochus ellipticus,Platyhelminthes,Turbellaria,Polycladida,Stylochidae,Stylochus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1871-10-,1871,Verrill,41.275,-72.964
 290,290,IZ.020170,Stylochus ellipticus,Platyhelminthes,Turbellaria,Polycladida,Stylochidae,Stylochus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1871-10-,1871,Verrill,41.275,-72.964
 307,307,IZ.037569,Stylochus ellipticus,Platyhelminthes,Turbellaria,Polycladida,Stylochidae,Stylochus,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,West Haven,Savin Rock,,,,1894-04-,1894,Verrill,41.275,-72.964
-441,441,IZ.100562,Syllidae,Annelida,Polychaeta,Phyllodocida,Syllidae,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1871-10-,1871,Verrill,41.275,-72.964
+441,441,IZ.100562,Syllidae,Annelida,Polychaeta,Phyllodocida,Syllidae, ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,West Haven,Savin Rock,,,1871-10-,1871,Verrill,41.275,-72.964
 51,51,IZ.000312.CN,Tubularia sp.,Cnidaria,Hydrozoa,Hydroida,Tubulariidae,Tubularia,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
 52,52,IZ.000313.CN,Tubularia sp.,Cnidaria,Hydrozoa,Hydroida,Tubulariidae,Tubularia,Atlantic Ocean,,,USA,,,,Long Island Sound,,,,,,Verrill,,
-49,49,IZ.000291.AN,Turbellaria,Platyhelminthes,Turbellaria,,,,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1868,1868,Verrill,41.307,-72.925
+49,49,IZ.000291.AN,Turbellaria,Platyhelminthes,Turbellaria, , , ,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,,New Haven,,,,1868,1868,Verrill,41.307,-72.925
 455,455,IZ.102194,Unciola irrorata,Arthropoda,Malacostraca,Amphipoda,Unciolidae,Unciola,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New London County,,Noank,,,,1874,1874,Verrill,41.358,-72.028
 202,202,IZ.005662.CR,Upogebia affinis,Arthropoda,Malacostraca,Decapoda,Upogebiidae,Upogebia,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,,,,1896,1896,Verrill,41.279,-72.797
 204,204,IZ.005664.CR,Upogebia affinis,Arthropoda,Malacostraca,Decapoda,Upogebiidae,Upogebia,Atlantic Ocean,,Long Island Sound,USA,Connecticut,New Haven County,Branford,Thimble Islands,Outer Island,,,,,Verrill,41.279,-72.797
